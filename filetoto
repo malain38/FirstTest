@@ -1,4 +1,0 @@
-# file toto 
-import pylab
-pylab.plot(range(10))
-pylab.show()
